@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**alishair7071/alishair7071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Ali Shair 👋
 
-Here are some ideas to get you started:
+💻 **Software Engineer | MERN Stack Developer | Open Source Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about building scalable web applications, contributing to open source, solving DSA problems and learning new technologies every day.  
+
+---
+
+## 🚀 About Me
+- 🎓 Computer Science student with a strong foundation in problem solving  
+- 🌱 Currently learning **Cloud Computing & DevOps**  
+- 🔭 Exploring **Open Source contributions**  
+- 💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB**  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/swe-ali-shair/)  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Java, JavaScript  
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Version Control:** Git, GitHub  
+- **Other:** REST APIs, Stripe & PayPal integration  
+
+---
+
+## 📂 Featured Projects
+- 🌐 [E-Commerce Web App](https://github.com/alishair7071/real-estate) – Full-stack Real Estate application with MERN Stack.  
+- 🤖 [Multivendor web app](https://github.com/alishair7071/Multivendor) – The mega project | Mulivendor E-Commerce.
+
+---
+
+## 📈 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+
+⭐️ From [Ali Shair](https://github.com/alishair7071).  
