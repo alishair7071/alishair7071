@@ -1,7 +1,7 @@
 
 # Hi I'm Ali Shair 👋
 
-💻 **Software Engineer | MERN Stack Developer | Open Source Enthusiast**  
+💻 **Software Engineer | MERN Stack Developer | Open Source Enthusiast** | Competitive Programmer  
 
 Welcome to my GitHub profile! I'm passionate about building scalable web applications, contributing to open source, solving DSA problems and learning new technologies every day.  
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Java, JavaScript  
+- **Languages:** Java, C++, JavaScript 
 - **Frontend:** React.js, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
