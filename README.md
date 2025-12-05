@@ -8,21 +8,21 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science student with a strong foundation in problem solving  
+- 🎓 Full Stack Engineer with a strong foundation in problem solving  
 - 🌱 Currently learning **Cloud Computing & DevOps**  
 - 🔭 Exploring **Open Source contributions**  
-- 💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB**  
+- 💬 Ask me about **Java, C++, JavaScript, React, Node.js, MongoDB, Next.js**  
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/swe-ali-shair/)  
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Java, C++, JavaScript 
-- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Languages:** JavaScript, TypeScript, Java, C++ 
+- **Frontend:** React.js, Next.js, Material UI, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
 - **Version Control:** Git, GitHub  
-- **Other:** REST APIs, Stripe & PayPal integration  
+- **Other:** REST APIs, Stripe & PayPal integration
 
 ---
 
