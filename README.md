@@ -18,11 +18,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 🛠️ Skills & Tools
 - **Languages:** JavaScript, TypeScript, Java, C++ 
-- **Frontend:** React.js, Next.js, Material UI, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Version Control:** Git, GitHub  
-- **Other:** REST APIs, Stripe & PayPal integration
+- **Frontend:** React.js, Next.js, Material UI, Redux, Tailwind CSS, Material UI
+- **Backend & Database: ** Node.js, Express.js, Restfull APIs, MongoDB, SQL, Socket.io    
+- **Tools and Plateforms:** Git & GitHub, Firebase, Supabase, Cloudinary, Netlify, Vercel, Stripe, PayPal   
+- **Soft Skills:** Time Management, Team collaboration, Problem Solving, Communication
 
 ---
 
