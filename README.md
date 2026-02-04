@@ -1,7 +1,7 @@
 
 # Hi I'm Ali Shair 👋
 
-💻 **Full Stack Engineer | Open Source Contributer @GSOC** | Competitive Programmer  
+💻 **Full Stack Engineer | Open Source Contributer** | Competitive Programmer  
 
 Welcome to my GitHub profile! I am passionate about building scalable web applications, contributing to open source, solving DSA problems and learning new technologies every day.  
 
