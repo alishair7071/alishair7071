@@ -1,5 +1,5 @@
 
-# Hi I'm Ali Shair 👋
+# Hi I am Ali Shair 👋
 
 💻 **Full Stack Engineer | Open Source Contributer** | Competitive Programmer  
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am passionate about building scalable web applic
 - 🌱 Currently learning **Cloud Computing & DevOps**  
 - 🔭 Contributing in **Open Source @GSOC**  
 - 💬 Ask me about **Java, C++, JavaScript, React, Node.js, MongoDB, Next.js, React Native**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/swe-ali-shair/)  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/swe-ali-shair/), [Email](alishair7071@gmail.com)
 
 ---
 
