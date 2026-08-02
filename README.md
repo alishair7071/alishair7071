@@ -5,7 +5,7 @@
 ### Full-Stack Engineer · AI/LLM Enthusiast · Open Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1c?style=for-the-badge&logo=vercel&logoColor=white)](https://ali-shair-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-shair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swe-ali-shair/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishair7071@gmail.com)
 
 </div>
