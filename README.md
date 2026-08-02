@@ -20,7 +20,7 @@ On the AI side, I work with **LLMs, RAG systems, LangGraph, and LangChain**, and
 
 - 🔭 Currently building microservices with **Kubernetes & Docker**
 - 🤖 Exploring **AI agents, RAG pipelines, and LLM evaluation**
-- 🌱 Open source contributor — check my pinned repos below
+- 🌱 Open source contributor
 - 🏆 **ICPC Regional Qualifier 2025-26** — All Pakistan Rank **#61**
 - 💼 Actively looking for a role where I can grow and contribute from day one
 
@@ -70,7 +70,7 @@ On the AI side, I work with **LLMs, RAG systems, LangGraph, and LangChain**, and
 
 ## 🚀 Featured Projects
 
-### 🛒 [Shop Nest](https://github.com/ali-shair) — Multi-Vendor E-Commerce Marketplace
+### 🛒 [Shop Nest](https://github.com/alishair7071/Multivendor) — Multi-Vendor E-Commerce Marketplace
 > Full-featured marketplace with seller dashboards, real-time chat, and secure payments.
 
 - Role-based auth (JWT + Bcrypt), seller analytics, coupons & discount management
@@ -80,7 +80,7 @@ On the AI side, I work with **LLMs, RAG systems, LangGraph, and LangChain**, and
 
 ---
 
-### 🏠 [Real Estate Platform](https://github.com/ali-shair) — Property Listing & Management
+### 🏠 [Real Estate Platform](https://github.com/alishair7071/real-estate) — Property Listing & Management
 > Browse, filter, and list properties for sale or rent with a modern responsive UI.
 
 - RESTful APIs, JWT auth, advanced search & filtering
@@ -88,7 +88,7 @@ On the AI side, I work with **LLMs, RAG systems, LangGraph, and LangChain**, and
 
 ---
 
-### 👥 [Sociopedia](https://github.com/ali-shair) — Social Media Web App
+### 👥 [Sociopedia](https://github.com/alishair7071/Sociopedia) — Social Media Web App
 > Posts, likes, comments, and friend connections — a full social experience.
 
 - Material UI design, Redux global state, JWT-secured REST APIs
@@ -123,7 +123,7 @@ On the AI side, I work with **LLMs, RAG systems, LangGraph, and LangChain**, and
 | Role | Company | Period |
 |------|---------|--------|
 | AI Reasoning Engineer | Turing (Remote) | Oct '25 – Mar '26 |
-| BS Computer Science (CGPA 3.4+) | University of Education, Lahore | — |
+| BS Computer Science | University of Education, Lahore | — |
 
 ---
 
